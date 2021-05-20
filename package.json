@@ -1,0 +1,25 @@
+{
+  "name": "davaleba-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jana-kistauri/davaleba-10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jana-kistauri/davaleba-10/issues"
+  },
+  "homepage": "https://github.com/Jana-kistauri/davaleba-10#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-sass": "^4.1.0"
+  }
+}
